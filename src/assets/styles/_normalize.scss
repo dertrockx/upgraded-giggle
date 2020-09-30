@@ -1,0 +1,13 @@
+body {
+  font-family: 'Spartan', sans-serif;
+  height: 100vh;
+  font-size: 10px;
+}
+
+// normalization
+* {
+  margin: 0;
+  padding: 0;
+  box-shadow: border-box;
+  transition: 0.1s all;
+}
